@@ -1,0 +1,17 @@
+# React (frontend)
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Django (backend)
+*.pyc
+__pycache__/
+db.sqlite3
+backend/__pycache__/
+backend/*.pyc
+.env
+venv/
+
+# OS-specific
+.DS_Store
+Thumbs.db
